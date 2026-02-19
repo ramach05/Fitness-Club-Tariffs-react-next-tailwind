@@ -1,0 +1,28 @@
+# Зависимости
+node_modules/
+
+# Сборка
+dist/
+build/
+*.tsbuildinfo
+
+# Окружение
+.env
+.env.local
+.env.*.local
+
+# Логи и кэш
+*.log
+npm-debug.log*
+.npm
+.cache
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
