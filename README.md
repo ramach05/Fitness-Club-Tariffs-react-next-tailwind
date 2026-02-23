@@ -6,17 +6,17 @@
 
 ### Десктоп
 
-![Главная страница на десктопе — таймер, hero-блок, карточки тарифов, форма покупки и блок гарантии](screenshots/main-page-desktop.png)
+<img src="screenshots/main-page-desktop.png" alt="Главная страница на десктопе — таймер, hero-блок, карточки тарифов, форма покупки и блок гарантии" width="700" />
 
 ### Мобильная версия
 
 **Таймер в режиме предупреждения (осталось ≤ 30 сек):**
 
-![Мобильный вид — таймер в режиме предупреждения (красный, мигание)](screenshots/main-page-mobile-timer-alert.png)
+<img src="screenshots/main-page-mobile-timer-alert.png" alt="Мобильный вид — таймер в режиме предупреждения (красный, мигание)" height="500" />
 
 **После истечения таймера (полные цены):**
 
-![Мобильный вид — таймер истёк, отображаются полные цены без скидки](screenshots/main-page-mobile-timer-done.png)
+<img src="screenshots/main-page-mobile-timer-done.png" alt="Мобильный вид — таймер истёк, отображаются полные цены без скидки" height="500" />
 
 ## Стек
 
@@ -41,12 +41,12 @@ npm run dev
 
 ## Скрипты
 
-| Команда | Описание |
-|--------|----------|
-| `npm run dev` | Режим разработки с hot reload |
-| `npm run build` | Production-сборка |
-| `npm start` | Запуск собранного приложения |
-| `npm run typecheck` | Проверка типов TypeScript |
+| Команда             | Описание                      |
+| ------------------- | ----------------------------- |
+| `npm run dev`       | Режим разработки с hot reload |
+| `npm run build`     | Production-сборка             |
+| `npm start`         | Запуск собранного приложения  |
+| `npm run typecheck` | Проверка типов TypeScript     |
 
 ## Функциональность приложения
 
