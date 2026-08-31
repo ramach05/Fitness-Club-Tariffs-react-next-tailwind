@@ -6,17 +6,17 @@
 
 ### Десктоп
 
-<img src="screenshots/main-page-desktop.png" alt="Главная страница на десктопе — таймер, hero-блок, карточки тарифов, форма покупки и блок гарантии" width="700" />
+<img src="https://cdn.jsdelivr.net/gh/ramach05/Fitness-Club-Tariffs-react-next-tailwind@main/screenshots/main-page-desktop.png" alt="Главная страница на десктопе — таймер, hero-блок, карточки тарифов, форма покупки и блок гарантии" width="700" />
 
 ### Мобильная версия
 
 **Таймер в режиме предупреждения (осталось ≤ 30 сек):**
 
-<img src="screenshots/main-page-mobile-timer-alert.png" alt="Мобильный вид — таймер в режиме предупреждения (красный, мигание)" height="500" />
+<img src="https://cdn.jsdelivr.net/gh/ramach05/Fitness-Club-Tariffs-react-next-tailwind@main/screenshots/main-page-mobile-timer-alert.png" alt="Мобильный вид — таймер в режиме предупреждения (красный, мигание)" height="500" />
 
 **После истечения таймера (полные цены):**
 
-<img src="screenshots/main-page-mobile-timer-done.png" alt="Мобильный вид — таймер истёк, отображаются полные цены без скидки" height="500" />
+<img src="https://cdn.jsdelivr.net/gh/ramach05/Fitness-Club-Tariffs-react-next-tailwind@main/screenshots/main-page-mobile-timer-done.png" alt="Мобильный вид — таймер истёк, отображаются полные цены без скидки" height="500" />
 
 ## Стек
 
